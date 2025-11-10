@@ -25,12 +25,12 @@ Here are some ideas to get you started:
 💻 **Code Globaliti Developer** — Lead
 
 ## Tools Skilss
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode&theme=light)](https://skillicons.dev)
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></a>
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
 ## Language & Frameworks 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,figma,dart&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,dart&theme=light)](https://skillicons.dev)
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
 
 ## Connect with me
