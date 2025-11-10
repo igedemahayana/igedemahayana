@@ -33,8 +33,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
 ## Language & Frameworks 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,dart&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts&theme=light)](https://skillicons.dev)
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
+[![My Skills](https://skillicons.dev/icons?i=dart&theme=light)](https://skillicons.dev))
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flutter-dark.svg" width="50"></a>
 
 ## Connect with me
