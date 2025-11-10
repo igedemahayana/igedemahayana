@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![www.linkedin.com/in/IGedeMahayana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://www.instagram.com/mahayana.demy4na](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.youtube.com/@Myanaa_](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/code.globalitiklk)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=igedemahayana&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=igedemahayana&theme=2077&utcOffset=8)
