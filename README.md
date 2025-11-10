@@ -20,14 +20,13 @@ Here are some ideas to get you started:
 💻 Lead of [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk)
 
 ## Tools Skilss
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode&theme=light)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
 ## Language & Frameworks 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,figma,dart&theme=light)](https://skillicons.dev)
 
 ## Connect with me
 ![www.linkedin.com/in/IGedeMahayana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
