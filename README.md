@@ -1,5 +1,4 @@
-## Hello everyone, I'm Mahayana Public Speaker & Computer Science in Software Engineer
-👋
+# Hello everyone, I'm Mahayana Public Speaker & Computer Science
 
 <!--
 **igedemahayana/igedemahayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
