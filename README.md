@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></a>
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
+<img src="./assets/word.svg" alt="Word-inspired logo" width="96" /> <img src="./assets/powerpoint.svg" alt="PowerPoint-inspired logo" width="96" />
+
 
 ## Language & Frameworks 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts&theme=dark)](https://skillicons.dev)
