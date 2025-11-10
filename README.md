@@ -42,4 +42,5 @@ Here are some ideas to get you started:
 ![https://www.youtube.com/@Myanaa_](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=igedemahayana&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=igedemahayana&theme=2077)
 
