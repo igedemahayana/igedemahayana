@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💻 Lead of [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk)
 
 ## Tools Skilss
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,youtube&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode&theme=light)](https://skillicons.dev)
 <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
 
