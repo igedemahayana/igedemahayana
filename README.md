@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙋 **I'm the Founder & Owner of** [**Myanaa**] **on Youtube**(https://www.youtube.com/@Myanaa_)
-🙋 I'm Founder & Owner Myatech [**myatech.id**](https://www.tiktok.com/@myatech.id)
-💻 Lead of [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk)
+🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_)
+🙋 **I'm also the Founder & Owner of** [**myatech.id**](https://www.tiktok.com/@myatech.id)
+💻 **Currently, I serve as the Lead of** [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk)
 
 ## Tools Skilss
 [![My Skills](https://skillicons.dev/icons?i=figma,vscode&theme=light)](https://skillicons.dev)
