@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igedemahayana&theme=2077) <br>
 
 🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_) <br>
 🙋 **I'm also the Founder & Owner of** [**myatech.id**](https://www.tiktok.com/@myatech.id) <br>
@@ -40,6 +41,5 @@ Here are some ideas to get you started:
 ![https://www.instagram.com/mahayana.demy4na](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.youtube.com/@Myanaa_](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igedemahayana&theme=2077) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=igedemahayana&theme=2077)
 
