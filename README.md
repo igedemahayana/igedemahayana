@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ## Language & Frameworks 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts,react,figma,dart&theme=light)](https://skillicons.dev)
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
 
 ## Connect with me
 ![www.linkedin.com/in/IGedeMahayana](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
