@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_)
-🙋 **I'm also the Founder & Owner of** [**myatech.id**](https://www.tiktok.com/@myatech.id)
+🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_) <br>
+🙋 **I'm also the Founder & Owner of** [**myatech.id**](https://www.tiktok.com/@myatech.id) <br>
 💻 **Currently, I serve as the Lead of** [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk)
 
 ## Tools Skilss
