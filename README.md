@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igedemahayana&theme=2077) <br>
 
 🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_) <br>
 🙋 **I'm also the Founder & Owner of** [**myatech.id**](https://www.tiktok.com/@myatech.id) <br>
 💻 **Currently, I serve as the Lead of** [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk) <br>
 🌏 **Member of [GDG (Google Developer Group Bali)](https://gdg.community.dev/gdg-bali/)**
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igedemahayana&theme=2077) <br>
 
 ## Organizations
 📰 **Journalistic & Public Speaking** — Lead <br>
@@ -41,6 +42,6 @@ Here are some ideas to get you started:
 ![https://www.instagram.com/mahayana.demy4na](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.youtube.com/@Myanaa_](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igedemahayana&theme=2077) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=igedemahayana&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=igedemahayana&theme=2077&utcOffset=8)
 
