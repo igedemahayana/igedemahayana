@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello everyone, I'm Mahayana Public Speaker & Computer Science in Software Engineer
+👋
 
 <!--
 **igedemahayana/igedemahayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🙋 I'm Founder & Owner Youtube [**Myanaa**](https://www.youtube.com/@Myanaa_)
+🙋 I'm Founder & Owner Myatech [**myatech.id**](https://www.tiktok.com/@myatech.id)
+💻 Lead of [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk)
