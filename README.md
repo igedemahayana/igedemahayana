@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ## Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/IGedeMahayana)
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/mahayana.demy4na)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)]()
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)]()
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)]()
 
