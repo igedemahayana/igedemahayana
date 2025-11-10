@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🌏 **Member of [GDG (Google Developer Group Bali)](https://gdg.community.dev/gdg-bali/)**
 
 ## Organizations
-📰 **Journalistic & Public Speaking** — Lead
+📰 **Journalistic & Public Speaking** — Lead <br>
 💻 **Code Globaliti Developer** — Lead
 
 ## Tools Skilss
