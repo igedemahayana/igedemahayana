@@ -41,8 +41,9 @@ Here are some ideas to get you started:
 ## Connect with me
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/IGedeMahayana)
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/mahayana.demy4na)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)]()
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=igedemahayana&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=igedemahayana&theme=2077&utcOffset=8)
