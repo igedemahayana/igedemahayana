@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 💻 **Currently, I serve as the Lead of** [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk) <br>
 🌏 **Member of [GDG (Google Developer Group Bali)](https://gdg.community.dev/gdg-bali/)**
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igedemahayana&theme=2077) <br>
-
 ## Organizations
 📰 **Journalistic & Public Speaking** — Lead <br>
 💻 **Code Globaliti Developer** — Lead
