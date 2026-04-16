@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_) <br>
 🙋 **I'm also the Founder & Owner of** [**myatech.id**](https://www.tiktok.com/@myatech.id) <br>
 💻 **Currently, I serve as the Lead of** [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk) <br>
-🌏 **Member of [GDG (Google Developer Group Bali)](https://gdg.community.dev/gdg-bali/)**
 
 ## Organizations
 📰 **Journalistic & Public Speaking** — Lead <br>
