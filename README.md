@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 ## Language & Frameworks 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,materialui,js,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
 [![My Skills](https://skillicons.dev/icons?i=dart&theme=dark)](https://skillicons.dev)
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/flutter-dark.svg" width="50"></a>
