@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="start">
-  <img src="images/Poto1.jpg" width="500">
-  <img src="images/Poto2.jpeg" width="500">
-</p>
-
 🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_) <br>
 🙋 **I'm also the Founder & Owner of** [**myatech.id**](https://www.tiktok.com/@myatech.id) <br>
 💻 **Currently, I serve as the Lead of** [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk) <br>
