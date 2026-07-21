@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="start">
   <img src="images/Poto1.jpg" width="500">
-  <img src="images/Poto2.jpeg.jpg" width="500">
+  <img src="images/Poto2.jpeg" width="500">
 </p>
 
 🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_) <br>
@@ -41,19 +41,23 @@ Here are some ideas to get you started:
 
 ## Achievements
 
-🥈 2nd Place – Web Design Tech Fest INSTIKI Competition
-🥈 2nd Place – Web Programming Competition (180 Menit), PARAX ICT XI INSTIKI
-🥈 2nd Place – AI Exhibition Category, Lomba Kompetensi Nasional (LKS)
-🥇 1st Rank – Grade 11 Software Engineering (RPL)
-🥈 2nd Rank – Grade 10 Software Engineering (RPL)
-🎖️ 6th Place – FASTEKNO ITB Stikom Bali Web Design Competition 2026
+<ul>
+  <li>🥈 2nd Place – Web Design Tech Fest INSTIKI Competition</li>
+  <li>🥈 2nd Place – Web Programming Competition (180 Menit), PARAX ICT XI INSTIKI</li>
+  <li>🥈 2nd Place – AI Exhibition Category, Lomba Kompetensi Nasional (LKS)</li>
+  <li>🥇 1st Rank – Grade 11 Software Engineering (RPL)</li>
+  <li>🥈 2nd Rank – Grade 10 Software Engineering (RPL)</li>
+  <li>🎖️ 6th Place – FASTEKNO ITB Stikom Bali Web Design Competition 2026</li>
+</ul>
 
 ## Competitions & Participation
 
-- Participant – I/O Fest 2026 FTI UNTAR Web Development Competition (Nasional)
-- Participant – SEFEST 2026 Himpunan Mahasiswa Software Engineering Telkom University (Nasional)
-- Participant – INVOFEST 2026 Teknik Informatika Universitas Harkat Negeri (Nasional)
-- Participant – Techtopia 2025 Web Design Competition HMJTI Undiksha (Nasional)
+<ul>
+  <li>Participant – I/O Fest 2026 FTI UNTAR Web Development Competition (Nasional)</li>
+  <li>Participant – SEFEST 2026 Himpunan Mahasiswa Software Engineering Telkom University (Nasional)</li>
+  <li>Participant – INVOFEST 2026 Teknik Informatika Universitas Harkat Negeri (Nasional)</li>
+  <li>Participant – Techtopia 2025 Web Design Competition HMJTI Undiksha (Nasional)</li>
+</ul>
 
 ## Connect with me
 
