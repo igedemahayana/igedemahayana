@@ -42,15 +42,10 @@ Here are some ideas to get you started:
 ## Achievements
 
 🥈 2nd Place – Web Design Tech Fest INSTIKI Competition
-
 🥈 2nd Place – Web Programming Competition (180 Menit), PARAX ICT XI INSTIKI
-
 🥈 2nd Place – AI Exhibition Category, Lomba Kompetensi Nasional (LKS)
-
 🥇 1st Rank – Grade 11 Software Engineering (RPL)
-
 🥈 2nd Rank – Grade 10 Software Engineering (RPL)
-
 🎖️ 6th Place – FASTEKNO ITB Stikom Bali Web Design Competition 2026
 
 ## Competitions & Participation
