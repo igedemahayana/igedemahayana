@@ -67,6 +67,3 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)]()
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)]()
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)]()
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=igedemahayana&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=igedemahayana&theme=2077&utcOffset=8)
