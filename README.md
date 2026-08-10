@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 📰 **Journalistic & Public Speaking** — Lead <br>
 💻 **Code Globaliti Developer** — Lead
 
+## Stats
+
+![](https://github-readme-stats.shion.dev/api?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## Tools Skilss
 
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" width="50"></a>
