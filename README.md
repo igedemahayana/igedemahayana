@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🥈 2nd Place – Web Design Tech Fest INSTIKI Competition</li>
   <li>🥈 2nd Place – Web Programming Competition (180 Menit), PARAX ICT XI INSTIKI</li>
-  <li>🥈 2nd Place – AI Exhibition Category, Lomba Kompetensi Nasional (LKS)</li>
+  <li>🥈 2nd Place – AI Exhibition Category, Lomba Kompetensi Siswa (LKS) - Provincial</li>
   <li>🥇 1st Rank – Grade 11 Software Engineering (RPL)</li>
   <li>🥈 2nd Rank – Grade 10 Software Engineering (RPL)</li>
   <li>🎖️ 6th Place – FASTEKNO ITB Stikom Bali Web Design Competition 2026</li>
@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 ## Competitions & Participation
 
 <ul>
-  <li>Participant – I/O Fest 2026 FTI UNTAR Web Development Competition (Nasional)</li>
-  <li>Participant – SEFEST 2026 Himpunan Mahasiswa Software Engineering Telkom University (Nasional)</li>
-  <li>Participant – INVOFEST 2026 Teknik Informatika Universitas Harkat Negeri (Nasional)</li>
-  <li>Participant – Techtopia 2025 Web Design Competition HMJTI Undiksha (Nasional)</li>
+  <li>Participant – I/O Fest 2026 FTI UNTAR Web Development Competition</li>
+  <li>Participant – SEFEST 2026 Himpunan Mahasiswa Software Engineering Telkom University</li>
+  <li>Participant – INVOFEST 2026 Teknik Informatika Universitas Harkat Negeri </li>
+  <li>Participant – Techtopia 2025 Web Design Competition HMJTI Undiksha</li>
 </ul>
 
 ## Connect with me
