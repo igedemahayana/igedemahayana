@@ -1,5 +1,7 @@
 # 👋 Hi everyone! I'm Mahayana, a Public Speaker passionate about Software Engineering and technology.
 
+![](https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false)<br/>
+
 <!--
 **igedemahayana/igedemahayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,8 +29,6 @@ Here are some ideas to get you started:
 ## Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Tools Skilss
 
@@ -67,3 +67,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)]()
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)]()
 [![My Skills](https://skillicons.dev/icons?i=github&theme=dark)]()
+
+## Most Used Languages
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
