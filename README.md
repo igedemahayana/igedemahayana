@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 ## Language & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
+<a href="#"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg
 " width="50"></a>
