@@ -6,8 +6,8 @@
 
 ## Organizations
 
-**Code Globaliti Developer** — Lead <br>
-**Journalistic & Public Speaking** — Co Lead <br>
+**Lead Of Code Globaliti Developer** <br>
+**Co Lead Journalistic & Public Speaking** <br>
 
 ## Tools Skilss
 
@@ -57,10 +57,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+      <img src="https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false" alt="GitHub Streak">
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false" alt="GitHub Streak">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </td>
   </tr>
 </table>
