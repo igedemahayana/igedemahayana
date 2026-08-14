@@ -1,30 +1,13 @@
 # 👋 Hi everyone! I'm Mahayana, a Public Speaker passionate about Software Engineering and technology.
 
-![](https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false)<br/>
-
-<!--
-**igedemahayana/igedemahayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_) <br>
 🙋 **I'm also the Founder & Owner of** [**myatech.id**](https://www.tiktok.com/@myatech.id) <br>
 💻 **Currently, I serve as the Lead of** [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk) <br>
 
 ## Organizations
 
-📰 **Journalistic & Public Speaking** — Lead <br>
 💻 **Code Globaliti Developer** — Lead
+📰 **Journalistic & Public Speaking** — Co Lead <br>
 
 ## Stats
 
@@ -71,10 +54,24 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/IGedeMahayana)
 [![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/mahayana.demy4na)
-[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)]()
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)]()
-[![My Skills](https://skillicons.dev/icons?i=github&theme=dark)]()
+[![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:mahayanaaa3@gmail.com?subject=Pertanyaan%20Website)
 
-## Most Used Languages
+## Github Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
+
+<div>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false)<br/>
+
+</div>
