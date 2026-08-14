@@ -1,17 +1,13 @@
 # 👋 Hi everyone! I'm Mahayana, a Public Speaker passionate about Software Engineering and technology.
 
-🙋 **I'm the Founder & Owner of Youtube** [**Myanaa**](https://www.youtube.com/@Myanaa_) <br>
-🙋 **I'm also the Founder & Owner of** [**myatech.id**](https://www.tiktok.com/@myatech.id) <br>
-💻 **Currently, I serve as the Lead of** [**Code Globaliti Developer**](https://www.instagram.com/code.globalitiklk) <br>
+🙋 **I'm the Founder & Owner of** <a href="https://www.youtube.com/@Myanaa_" target="_blank"><strong>Myanaa</strong></a> <br>
+🙋 **I'm also the Founder & Owner of** <a href="https://www.tiktok.com/@myatech.id" target="_blank"><strong>Myatech.id</strong></a> <br>
+💻 **Currently, I serve as the Lead of** <a href="https://www.instagram.com/codeglobaliti_developer/" target="_blank"><strong>Code Globaliti Developer</strong></a> <br>
 
 ## Organizations
 
-💻 **Code Globaliti Developer** — Lead
-📰 **Journalistic & Public Speaking** — Co Lead <br>
-
-## Stats
-
-![](https://github-readme-stats.shion.dev/api?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+**Code Globaliti Developer** — Lead <br>
+**Journalistic & Public Speaking** — Co Lead <br>
 
 ## Tools Skilss
 
@@ -68,10 +64,3 @@
     </td>
   </tr>
 </table>
-
-<div>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false)<br/>
-
-</div>
