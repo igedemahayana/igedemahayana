@@ -4,6 +4,10 @@
 🙋 **I'm also the Founder & Owner of** <a href="https://www.tiktok.com/@myatech.id" target="_blank"><strong>Myatech.id</strong></a> <br>
 💻 **Currently, I serve as the Lead of** <a href="https://www.instagram.com/codeglobaliti_developer/" target="_blank"><strong>Code Globaliti Developer</strong></a> <br>
 
+## Stats Github
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igedemahayana&bg_color=1a1b27&color=70a5fd&line=2768cf&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Organizations
 
 **Lead Of Code Globaliti Developer** <br>
