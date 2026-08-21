@@ -37,14 +37,14 @@
   <li>🎖️ 6th Place – FASTEKNO ITB Stikom Bali Web Design Competition 2026</li>
 </ul>
 
-## Competitions & Participation
+<!-- ## Competitions & Participation
 
 <ul>
   <li>Participant – I/O Fest 2026 FTI UNTAR Web Development Competition</li>
   <li>Participant – SEFEST 2026 Himpunan Mahasiswa Software Engineering Telkom University</li>
   <li>Participant – INVOFEST 2026 Teknik Informatika Universitas Harkat Negeri </li>
   <li>Participant – Techtopia 2025 Web Design Competition HMJTI Undiksha</li>
-</ul>
+</ul> -->
 
 ## Connect with me
 
@@ -57,10 +57,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://streak-stats.demolab.com/?user=igedemahayana&theme=shades-of-purple&hide_border=false" alt="GitHub Streak">
+     ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=igedemahayana&theme=shadow)
     </td>
     <td>
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=igedemahayana&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
     </td>
   </tr>
 </table>
