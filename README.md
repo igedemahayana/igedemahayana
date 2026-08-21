@@ -1,4 +1,4 @@
-# 👋 Hi everyone! I'm Mahayana, a Public Speaker passionate about Software Engineering and technology.
+# ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=%F0%9F%91%8B%20Hi%20everyone!%20I'm%20Mahayana%2C%20a%20Public%20Speaker%20passionate%20about%20Software%20Engineering%20and%20technology.&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%23ffffff)
 
 🙋 **I'm the Founder & Owner of** <a href="https://www.youtube.com/@Myanaa_" target="_blank"><strong>Myanaa</strong></a> <br>
 🙋 **I'm also the Founder & Owner of** <a href="https://www.tiktok.com/@myatech.id" target="_blank"><strong>Myatech.id</strong></a> <br>
@@ -54,12 +54,5 @@
 
 ## Github Stats
 
-<table>
-  <tr>
-    <td>
-     ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=igedemahayana&theme=shadow)
-    </td>
-    <td>
-    </td>
-  </tr>
-</table>
+![igedemahayana's GitHub Stats](https://readme-stats-github.pages.dev/api?username=igedemahayana&theme=shadow)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=igedemahayana&theme=shadow)
