@@ -1,8 +1,10 @@
 # ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=%F0%9F%91%8B%20Hi%20everyone!%20I'm%20Mahayana%2C%20a%20Public%20Speaker%3B%20passionate%20about%20Software%20Engineering%3B%20and%20technology.&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%23ffffff)
 
-🙋 **I'm the Founder & Owner of** <a href="https://www.youtube.com/@Myanaa_" target="_blank"><strong>Myanaa</strong></a> <br>
-🙋 **I'm also the Founder & Owner of** <a href="https://www.tiktok.com/@myatech.id" target="_blank"><strong>Myatech.id</strong></a> <br>
-💻 **Currently, I serve as the Lead of** <a href="https://www.instagram.com/codeglobaliti_developer/" target="_blank"><strong>Code Globaliti Developer</strong></a> <br>
+### **I'm the Founder & Owner of** <a href="https://www.youtube.com/@Myanaa_" target="_blank"><strong>Myanaa</strong></a> <br>
+
+### **I'm also the Founder & Owner of** <a href="https://www.tiktok.com/@myatech.id" target="_blank"><strong>Myatech.id</strong></a> <br>
+
+### **Currently, I serve as the Lead of** <a href="https://www.instagram.com/codeglobaliti_developer/" target="_blank"><strong>Code Globaliti Developer</strong></a> <br>
 
 ## Stats Github
 
@@ -30,10 +32,10 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg
 " width="50"></a>
 
-## Best Project
+<!-- ## Best Project
 
 ![Myastudy-Tech-Fest-INSTIKI-2026 Stats](https://readme-stats-github.pages.dev/api/repo?username=igedemahayana&repo=Myastudy-Tech-Fest-INSTIKI-2026&theme=shadow)
-![Myaeco-Green Stats](https://readme-stats-github.pages.dev/api/repo?username=igedemahayana&repo=Myaeco-Green&theme=shadow)
+![Myaeco-Green Stats](https://readme-stats-github.pages.dev/api/repo?username=igedemahayana&repo=Myaeco-Green&theme=shadow) -->
 
 ## Achievements
 
