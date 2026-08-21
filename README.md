@@ -1,9 +1,10 @@
 # ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=%F0%9F%91%8B%20Hi%20everyone!%20I'm%20Mahayana%2C%20a%20Public%20Speaker%3B%20passionate%20about%20Software%20Engineering%3B%20and%20technology.&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%23ffffff)
 
 <h3>
-  <strong>I'm the Founder & Owner of</strong> <a href="https://www.youtube.com/@Myanaa_"><strong>Myanaa</strong></a><br>
-  <strong>I'm also the Founder & Owner of</strong> <a href="https://www.tiktok.com/@myatech.id"><strong>Myatech.id</strong></a><br>
-  <strong>Currently, I serve as the Lead of</strong> <a href="https://www.instagram.com/codeglobaliti_developer/"><strong>Code Globaliti Developer</strong></a>
+<strong>Owner Of Youtube</strong> <a href="https://www.youtube.com/@Myanaa_"><strong>Myanaa</strong></a> <strong> | 85.000 Subscribe</strong> <br>
+<strong>Founder of</strong> <a href="https://www.tiktok.com/@myatech.id"><strong>Myatech.id</strong></a> <strong> | Tech Educator</strong> <br>
+<strong>Lead of</strong> <a href="https://www.instagram.com/codeglobaliti_developer/"><strong>Code Globaliti Developer</strong></a> <br>
+
 </h3>
 
 ## Stats Github
@@ -13,8 +14,8 @@
 ## Organizations
 
 <h3>
-<strong>Lead Of Code Globaliti Developer</strong>
-<strong>Co Lead Journalistic & Public Speaking</strong>
+<strong>Lead Of Code Globaliti Developer</strong> <br>
+<strong>Co Lead Journalistic & Public Speaking</strong> <br>
 </h3>
 
 ## Tools Skilss
