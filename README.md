@@ -70,4 +70,4 @@
 
 ![igedemahayana's GitHub Stats](https://readme-stats-github.pages.dev/api?username=igedemahayana&theme=shadow)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=igedemahayana&theme=shadow)
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=igedemahayana&theme=azure-noir)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=igedemahayana&theme=radical)
