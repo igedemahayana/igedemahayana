@@ -7,9 +7,9 @@
 
 </h3>
 
-## Stats Github
+<!-- ## Stats Github
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igedemahayana&bg_color=1a1b27&color=70a5fd&line=2768cf&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igedemahayana&bg_color=1a1b27&color=70a5fd&line=2768cf&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 ## Organizations
 
@@ -70,3 +70,4 @@
 
 ![igedemahayana's GitHub Stats](https://readme-stats-github.pages.dev/api?username=igedemahayana&theme=shadow)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=igedemahayana&theme=shadow)
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=igedemahayana&theme=azure-noir)
