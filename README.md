@@ -1,4 +1,5 @@
-# ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=%F0%9F%91%8B%20Hi%20everyone!%20I'm%20Mahayana%2C%20a%20Public%20Speaker%3B%20passionate%20about%20Software%20Engineering%3B%20and%20technology.&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%23ffffff)
+![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=Hi%20everyone%20I'm%20Mahayana%2C%20a%20Public%20Speaker%20passionate%20about%20Software%20Engineering%20and%20technology.&theme=shadow&color=%233b82f6&particleColor=%23000000&background=%230d1117)
+
 
 <h3>
 <strong>• Owner Of Youtube</strong> <a href="https://www.youtube.com/@Myanaa_"><strong>Myanaa</strong></a> <strong> | 85.000 Subscribe</strong> <br>
