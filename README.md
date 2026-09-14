@@ -2,6 +2,12 @@
 
 > **A student, developer, and public speaker who loves learning, building, and sharing ideas.**
 
+## About Me
+
+<h3>Education: SMK TI Bali Global Klungkung</h3>
+<h3>Major: Software Engineering</h3>
+<h3>Expertise: UI UX Designer, Frontend Web</h3>
+
 <h3>
 <strong>Owner Of Youtube</strong> <a href="https://www.youtube.com/@Myanaa_"><strong>Myanaa</strong></a><br>
 <strong>Founder of</strong> <a href="https://www.tiktok.com/@myatech.id"><strong>Myatech.id</strong></a><br>
@@ -14,20 +20,18 @@
 
 ## Tools Skilss
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/webflow.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" height="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" height="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" height="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" height="40"></a>
 
 ## Language & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
-<a href="#"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg" height="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" height="40"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg
-" width="50"></a>
+" height="40"></a>
 
 <!-- ## Best Project
 
