@@ -1,3 +1,7 @@
+# Hi everyone, I'm Mahayana 👋
+
+> **A student, developer, and public speaker who loves learning, building, and sharing ideas.**
+
 <h3>
 <strong>Owner Of Youtube</strong> <a href="https://www.youtube.com/@Myanaa_"><strong>Myanaa</strong></a><br>
 <strong>Founder of</strong> <a href="https://www.tiktok.com/@myatech.id"><strong>Myatech.id</strong></a><br>
@@ -33,11 +37,11 @@
 ## Achievements
 
 <ul>
+  <li>1st Rank – Grade 11 Software Engineering</li>
+  <li>2nd Place – Web Programming PARAS ICT XI</li>
   <li>2nd Place – Web Design Tech Fest INSTIK</li>
-  <li>2nd Place – Web Programming Competition PARAX ICT XI</li>
   <li>2nd Place – LKS (Provincial) AI Exhibition</li>
-  <li>1st Rank – Grade 11 Software Engineering (RPL)</li>
-  <li>2nd Rank – Grade 10 Software Engineering (RPL)</li>
+  <li>2nd Rank – Grade 10 Software Engineering</li>
   <li>6th Place – Web Design FASTEKNO ITB Stikom Bali</li>
 </ul>
 
