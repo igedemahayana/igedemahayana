@@ -4,9 +4,11 @@
 
 ## About Me
 
-<h3>Education: SMK TI Bali Global Klungkung</h3>
-<h3>Major: Software Engineering</h3>
-<h3>Expertise: UI UX Designer, Frontend Web</h3>
+<h4>
+Education: SMK TI Bali Global Klungkung
+Major: Software Engineering
+Expertise: UI UX Designer, Frontend Web
+</h4>
 
 <h3>
 <strong>Owner Of Youtube</strong> <a href="https://www.youtube.com/@Myanaa_"><strong>Myanaa</strong></a><br>
