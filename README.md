@@ -22,18 +22,18 @@ Lead of<a href="https://www.instagram.com/codeglobaliti_developer/">Code Globali
 
 ## Tools Skilss
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a>
 
 ## Language & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
-<a href="#"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg"></a>
+<a href="#"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg
-"></a>
+" width="50"></a>
 
 <!-- ## Best Project
 
