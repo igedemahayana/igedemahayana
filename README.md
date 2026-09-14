@@ -1,22 +1,12 @@
-# ![Typing SVG](https://readme-stats-github.pages.dev/api/typing?lines=%F0%9F%91%8B%20Hi%20everyone!%20I'm%20Mahayana%2C%20a%20Public%20Speaker%3B%20passionate%20about%20Software%20Engineering%3B%20and%20technology.&theme=shadow&color=%233b82f6&particleColor=%23ffffff&background=%23ffffff)
-
 <h3>
-<strong>• Owner Of Youtube</strong> <a href="https://www.youtube.com/@Myanaa_"><strong>Myanaa</strong></a> <strong> | 85.000 Subscribe</strong> <br>
-<strong>• Founder of</strong> <a href="https://www.tiktok.com/@myatech.id"><strong>Myatech.id</strong></a> <strong> | Tech Educator</strong> <br>
-<strong>• Lead of</strong> <a href="https://www.instagram.com/codeglobaliti_developer/"><strong>Code Globaliti Developer</strong></a> <br>
-
+<strong>Owner Of Youtube</strong> <a href="https://www.youtube.com/@Myanaa_"><strong>Myanaa</strong></a><br>
+<strong>Founder of</strong> <a href="https://www.tiktok.com/@myatech.id"><strong>Myatech.id</strong></a><br>
+<strong>Lead of</strong> <a href="https://www.instagram.com/codeglobaliti_developer/"><strong>Code Globaliti Developer</strong></a> <br>
 </h3>
 
 <!-- ## Stats Github
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=igedemahayana&bg_color=1a1b27&color=70a5fd&line=2768cf&point=a9b1d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-## Organizations
-
-<h3>
-<strong>Lead Of Code Globaliti Developer</strong> <br>
-<strong>Co Lead Journalistic & Public Speaking</strong> <br>
-</h3>
 
 ## Tools Skilss
 
@@ -43,12 +33,12 @@
 ## Achievements
 
 <ul>
-  <li>🥈 2nd Place – Web Design Tech Fest INSTIKI Competition</li>
-  <li>🥈 2nd Place – Web Programming Competition (180 Menit), PARAX ICT XI INSTIKI</li>
-  <li>🥈 2nd Place – AI Exhibition Category, Lomba Kompetensi Siswa (LKS) - Provincial</li>
-  <li>🥇 1st Rank – Grade 11 Software Engineering (RPL)</li>
-  <li>🥈 2nd Rank – Grade 10 Software Engineering (RPL)</li>
-  <li>🎖️ 6th Place – FASTEKNO ITB Stikom Bali Web Design Competition 2026</li>
+  <li>2nd Place – Web Design Tech Fest INSTIK</li>
+  <li>2nd Place – Web Programming Competition PARAX ICT XI</li>
+  <li>2nd Place – LKS (Provincial) AI Exhibition</li>
+  <li>1st Rank – Grade 11 Software Engineering (RPL)</li>
+  <li>2nd Rank – Grade 10 Software Engineering (RPL)</li>
+  <li>6th Place – Web Design FASTEKNO ITB Stikom Bali</li>
 </ul>
 
 <!-- ## Competitions & Participation
