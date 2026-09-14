@@ -4,16 +4,16 @@
 
 ## About Me
 
-<h4>
-Education: SMK TI Bali Global Klungkung
-Major: Software Engineering
-Expertise: UI UX Designer, Frontend Web
-</h4>
+<h3>
+Education: SMK TI Bali Global Klungkung <br>
+Major: Software Engineering <br>
+Expertise: UI UX Designer, Frontend Web <br>
+</h3>
 
 <h3>
-<strong>Owner Of Youtube</strong> <a href="https://www.youtube.com/@Myanaa_"><strong>Myanaa</strong></a><br>
-<strong>Founder of</strong> <a href="https://www.tiktok.com/@myatech.id"><strong>Myatech.id</strong></a><br>
-<strong>Lead of</strong> <a href="https://www.instagram.com/codeglobaliti_developer/"><strong>Code Globaliti Developer</strong></a> <br>
+Owner Of Youtube<a href="https://www.youtube.com/@Myanaa_">Myanaa</a><br>
+Founder of<a href="https://www.tiktok.com/@myatech.id">Myatech.id</a><br>
+Lead of<a href="https://www.instagram.com/codeglobaliti_developer/">Code Globaliti Developer</a> <br>
 </h3>
 
 <!-- ## Stats Github
@@ -22,18 +22,18 @@ Expertise: UI UX Designer, Frontend Web
 
 ## Tools Skilss
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" height="40"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg" height="40"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" height="40"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" height="40"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/vscode-dark.svg"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg"></a>
 
 ## Language & Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
-<a href="#"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg" height="40"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" height="40"></a>
+<a href="#"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg
-" height="40"></a>
+"></a>
 
 <!-- ## Best Project
 
