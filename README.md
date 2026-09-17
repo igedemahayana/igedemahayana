@@ -32,8 +32,7 @@ Lead of<a href="https://www.instagram.com/codeglobaliti_developer/">Code Globali
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js)](https://skillicons.dev)
 <a href="#"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/gsap-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/react-dark.svg" width="50"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/nodejs-dark.svg
-" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/typescript.svg" width="50"></a>
 
 <!-- ## Best Project
 
